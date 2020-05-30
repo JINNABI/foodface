@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap:https://jinnabi-foodface.netlify.app/food_face/sitemap.xml
