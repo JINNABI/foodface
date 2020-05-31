@@ -102,6 +102,7 @@ body {
   outline: none;
   text-transform: uppercase;
   font-weight: 700;
+    text-align: center;
 }
 
 .remove-image:hover {
