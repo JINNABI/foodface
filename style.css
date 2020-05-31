@@ -177,6 +177,23 @@ body {
     color: #f73737;
     text-decoration: underline;
 }
+.youtube-link2 {
+    font-family: NanumSquareR;
+    font-size: 1.5rem;
+    line-height: 1.71;
+    text-align: center;
+    color: #f73737;
+    text-decoration: underline;
+}
+
+.youtube-link2:hover {
+    font-family: NanumSquareR;
+    font-size: 1.5rem;
+    line-height: 1.71;
+    text-align: center;
+    color: #f73737;
+    text-decoration: underline;
+}
 
 .youtube-icon {
     width: 8%
